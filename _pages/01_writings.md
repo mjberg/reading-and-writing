@@ -4,4 +4,4 @@ title: Writings
 permalink: /writings/
 ---
 
-Writings will go here. 
+Writings will go here.
