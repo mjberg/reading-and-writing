@@ -23,7 +23,7 @@ categories: jekyll update
 
    This is the true north and most important factor in a purchase. The location must have either current or predictable future desirability in order to ensure a sale of the property and tenants who want to live there. Versus, being stuck in a situation where you're hoping, guessing or praying that someone will want to live there.  
 
-   As a concrete example, the condo owned was near Notre Dame University which for the foreseeable future will only continue to grow in interest. Equally valuable areas include beach towns, mountains, lakes, trade routes, cities with track records of interest, university towns, etc.
+   As a concrete example, the condo owned was near a University which for the foreseeable future will only continue to grow in interest. Equally valuable areas include beach towns, mountains, lakes, trade routes, cities with track records of interest, university towns, etc.
 
 2. **Price:**
 
@@ -34,11 +34,11 @@ categories: jekyll update
 
 3. **Protection:**
 
-   Do you have protection against existential threats such as a local government, HOA (home owners association), etc. Putting in place legal protection against downside events - even as odd or rare as they might be. As concrete example, I got into an legal argument with the HOA after they said I wasn't able to own a dog on the property when others were allowed dogs. This event resulted in a $5k fee which ate away at my gains. In retrospect, I should have put the property under an LLC to provide some protection - or avoided owning in an HOA all together.
+   Do you have protection against existential threats such as a local government, HOA (home owners association), etc. Putting in place legal protection against downside events - even as odd or rare as they might be. As concrete example, I got into an legal argument with the HOA after they said I wasn't able to own a recuse dog on the property when others were allowed dogs. This event resulted in a $5k fee which ate away at my gains. In retrospect, I should have put the property under an LLC to provide some protection - or avoided owning in an HOA all together.
 
 4. **Bonus: 9th Inning of Opportunistic Market**
 
-    While the above factors were areas I had control over, I believe, a stronger force than all of them has been the incredible run we are in as an economy and market as a whole -it's the longest unbroken bull run in US history. If it weren't for our current environment I don't think this would have been nearly as interesting - this signals to me gravity is right around the corner.
+    While the above factors were areas I had control over, I believe, a stronger force than all of them has been the incredible run we are in as an economy and market as a whole. If it weren't for our current environment I don't think this would have been nearly as interesting.
 
 ---
 
@@ -74,7 +74,8 @@ The third reason is that there are easier ways to make _similar_ amounts of mone
 
 #### **Other considerations:**
 * AirBnB allowed me to live in the unit and rent out the other room - very powerful tool for monetizing short term rentals but takes effort.
-* Renovations are a great way to learn how to get your hands dirty and re-invigorate the literal sense of 'using your hands' for a living.
+* Renovations are a great way to learn how to get your hands dirty and re-invigorate the literal sense of 'using your hands' for a living. Here are some before and after pictures of what we did. ![My helpful screenshot](/assets/oakhill1.jpg)
+
 * This was my first 'crack' at real estate - so would definitely do many things differently around the second time.
 * This property also allowed me to live rent free during the majority of the 5 years.
 * I used Zillow to list FSBO and had an offer on the property within 4 days of listing. This product experience was delightful.
