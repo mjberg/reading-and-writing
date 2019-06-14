@@ -5,16 +5,16 @@ date:   2019-05-26 11:46:37 -0500
 categories: jekyll update
 ---
 
-> Over the last 5 years I've owned a condo. Here are some quick performance numbers:
+ Over the last 5 years I've owned a condo. Here are some quick performance numbers:
 
 > * Purchase price $101k. Sell price $179k.
 * Price per square foot ($162) 52% higher than the average ($106).
 * Rental income/free cash flow during period $50k.~ $10k per year.
 
-> I'd like to share here what I've learned and mistakes made - more specifically, a framework for thinking about profitable real-estate.
+ I'd like to share here what I've learned and mistakes made - more specifically, a framework for thinking about profitable real-estate.
 
 
-#### In an effort to simplify, I'd like to propose the only three elements to focus on to ensure profitability in real estate.
+ In an effort to simplify, I'd like to propose the **_most important three elements_** to focus on to ensure profitability in real estate.
 
 
 
@@ -70,12 +70,11 @@ The first reason being the amount of time and effort it takes to generate the re
 
 The second being the illiquidity of the asset. Even though I didn't use a real estate agents for buy/sell process it was a decent amount of effort to acquire and unload the asset - versus say just clicking a button on my computer.
 
-The third reason is that there are easier ways to make _similar_ amounts of money. While this did provide me a roof over my head and extra free cash flow I don't think it was a better choice than something like [VTSAX](https://investor.vanguard.com/mutual-funds/profile/performance/vtsax) which for no effort over the same amount of time would have returned ~$55,580 or 9.24% for zero effort.
+The third reason is that there are easier ways to make _similar_ amounts of money. While this did provide me a roof over my head and extra free cash flow I'm not sure it was a better choice than something like [VTSAX](https://investor.vanguard.com/mutual-funds/profile/performance/vtsax) which for no effort over the same amount of time would have returned ~$55,580 or 9.24% for zero effort.
 
 #### **Other considerations:**
 * AirBnB allowed me to live in the unit and rent out the other room - very powerful tool for monetizing short term rentals but takes effort.
-* Renovations are a great way to learn how to get your hands dirty and re-invigorate the literal sense of 'using your hands' for a living. Here are some before and after pictures of what we did. ![My helpful screenshot](/assets/oakhill1.jpg)
-
+* Renovations are a great way to learn how to get your hands dirty and re-invigorate the literal sense of 'using your hands' for a living. Here are some [before](https://imgur.com/a/kyEVIQH) and [after](https://imgur.com/a/ji5E7BI) pictures.
 * This was my first 'crack' at real estate - so would definitely do many things differently around the second time.
 * This property also allowed me to live rent free during the majority of the 5 years.
 * I used Zillow to list FSBO and had an offer on the property within 4 days of listing. This product experience was delightful.
