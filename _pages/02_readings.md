@@ -82,11 +82,11 @@ permalink: /readings/
   * Leonardo DaVinci by Walter Isaacson
   * Albert Einstein by Walter Isaacson
   * Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance
-  * Surely your Joking Mr. Feynman by Richard Feynman
+  * Surely You're Joking Mr. Feynman by Richard Feynman
   * The Life: Michael Jordan by Roland Lazenby
   * Eleven Rings: The Soul of Success by Phil Jackson
   * Ben Franklin by Walter Isaacson
-  * The Everything Store and the Age of Amazon
+  * The Everything Store and the Age of Amazon by Brad Stone
   * What Do You Care What People Think by Richard Feynman
 
 
