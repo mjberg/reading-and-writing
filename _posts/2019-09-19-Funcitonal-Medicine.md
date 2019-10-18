@@ -8,7 +8,7 @@ categories: jekyll update
 
 #### An Unsolvable Issue
 
-After working to address a chronic health condition that has persisted the last 3 years and exhausting my known options I took a trip to the [Cleveland Clinic's center for Functional Medicine](https://my.clevelandclinic.org/departments/functional-medicine) directed by Mark Hyman to see if it might be able to help me resolve it.
+After working to address a chronic health condition that has persisted the last 3 years and exhausting my known options I took a trip to the [Cleveland Clinic's center for Functional Medicine](https://my.clevelandclinic.org/departments/functional-medicine) directed by Mark Hyman to see if they might be able to help me resolve it.
 
 Since I've received quite a few questions about the process and what to expect I wanted to record my experience and share relevant resources for others who may be interested or considering functional medicine in their future.
 
@@ -18,7 +18,7 @@ Functional medicine is defined as:
 
 > a personalized, systems-oriented model that empowers patients and practitioners to achieve the highest expression of health by working in collaboration to address the underlying causes of disease.
 
-In my experience, this is a verbose way to say, 'we use additional tools often overlooked by conventional medicine to help the body heal and flourish'. The main additional tools being: detailed blood work, nutrition, stress management, sleep, and supplementation.
+In my experience, this is a verbose way to say, 'we use additional tools often overlooked by conventional medicine to help the body heal and flouris.' The main additional tools being: detailed blood work, nutrition, stress management, sleep, and supplementation.
 
 #### What to Expect: Part 1
 
@@ -61,7 +61,7 @@ Here's what blood work and supplementation I was prescribed:
 
   * I found this very helpful given the noise around what's appropriate to eat these days. They prescribe an elimination diet. Asking all patients to remove items that cause inflammation - the top 3 being gluten, dairy and corn.
 
-  * [I've attached elimination diet recommendations here.](https://flic.kr/s/aHsmHEWMxF)
+  * [I've attached their elimination diet protocol here.](https://flic.kr/s/aHsmHEWMxF)
 
 #### What to Expect: Part 3
 

@@ -4,7 +4,7 @@ title: Readings
 permalink: /readings/
 ---
 
-  Books that I've read. If notes available they are linked to.
+  Books read. If notes available see link.
 
   **OS & Leadership**
 
@@ -49,6 +49,7 @@ permalink: /readings/
   * The Most Important Thing: The Most Important Thing: Uncommon Sense for the Thoughtful Investor by Howard Marks
   * The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success by William Thorndike
   * The Intelligent Investor by Benjamin Graham
+  * Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld and Jason A. Mendelson
 
 
   **Health**
@@ -65,6 +66,7 @@ permalink: /readings/
   * Natural Born Heroes: Mastering the Lost Secrets of Strength and Endurance by Chris McDougall
   * the Sleep Revolution by Arianna Huffington
   * Serve to Win: Serve to Win: The 14-Day Gluten-Free Plan for Physical and Mental Excellence by Novak Djokovic
+  *  Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest by Dan Buettner
 
 
  **Founder Stories**
@@ -88,6 +90,7 @@ permalink: /readings/
   * Ben Franklin by Walter Isaacson
   * The Everything Store and the Age of Amazon by Brad Stone
   * What Do You Care What People Think by Richard Feynman
+  * Alexander Hamilton by Ron Chernow
 
 
 
