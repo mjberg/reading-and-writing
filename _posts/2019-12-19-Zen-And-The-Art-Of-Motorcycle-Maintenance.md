@@ -7,6 +7,8 @@ categories: jekyll update
 
 This philosophy book follows the author on a motorcycle trip across the US. The trip is used to unpack ideas ranging from exploring what is 'Quality', classical vs. romantic understanding, and the possibilities within the 'high country of the mind'.
 
+I've never read anything quite like it. It's not really about zen or motorcycle maintenance but yet it is. The author unpacks a litany of ideas I've never remotely considered or thought could be explored.
+
 > So the thing to do when working on a motorcycle, as in any
 other task, is to cultivate the peace of mind which does not separate one’s self from one’s surroundings. When that is done successfully then everything else follows naturally. Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.
 
