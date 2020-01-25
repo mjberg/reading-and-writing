@@ -128,12 +128,12 @@ permalink: /readings/
   * Jesus: A Pilgrimage by James Martin
   * Manuscripts in Arcca by Paulo Coelho
   * Conversations with God: An Uncommon Dialogue by Neale Donald Walsch
-  * The Bible: cover to cover
+  * The Bible
   * When Breath Becomes Air by
   * The Four Agreements
   * The Surrender Experiment
   * Mere Christianity by C.S. Lewis
-  * Zen and the Art of Motorcycle Maintenance
+  * [Zen and the Art of Motorcycle Maintenance](https://matthewberg.me/jekyll/update/2019/12/12/Zen-And-The-Art-Of-Motorcycle-Maintenance.html)
 
  **Relationships**
 
@@ -152,7 +152,3 @@ permalink: /readings/
 
   *  Sapiens: A Brief History of Humankind by by Yuval Noah Harari
   *  Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond
-
-  **Philosophy**
-
-  * [Zen and the Art of Motorcycle Maintenance](https://matthewberg.me/jekyll/update/2019/12/12/Zen-And-The-Art-Of-Motorcycle-Maintenance.html)
