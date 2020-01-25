@@ -12,6 +12,8 @@ permalink: /readings/
   * Principles by Ray Dalio
   * The Way of the Seal: Think Like an Elite Warrior to Lead and Succeed by Mark Divine
   * No Easy Days: The Firsthand Account of the Mission that Killed Osama Bin Laden by Mark Owen
+  * Extreme Ownership:
+  * [Army Leadership & the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf)
 
   **Psychology**
 
@@ -50,6 +52,11 @@ permalink: /readings/
   * The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success by William Thorndike
   * The Intelligent Investor by Benjamin Graham
   * Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld and Jason A. Mendelson
+  * How to Get Fiflthy Rich is Rising Asia
+  * Zero to One:
+  * When Genius Failed: The Rise and Fall of Long-Term Capital Management  
+  * The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
+  * One Up on Wall Street by Peter Lynch
 
 
   **Health**
@@ -66,14 +73,20 @@ permalink: /readings/
   * Natural Born Heroes: Mastering the Lost Secrets of Strength and Endurance by Chris McDougall
   * the Sleep Revolution by Arianna Huffington
   * Serve to Win: Serve to Win: The 14-Day Gluten-Free Plan for Physical and Mental Excellence by Novak Djokovic
-  *  Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest by Dan Buettner
+  * Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest by Dan Buettner
 
 
- **Founder Stories**
+ **Founders**
 
  * Shoe Dog: the Story of Nike by Phil Knight
  * Little Black Stretchy Pants the story of Lulu Lemon by Chip Wilson
  * The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz
+ * Don't Fade Away
+ * Founder Stories: Jessica Livingston
+ * The Upstarts
+ * Delivering Happiness Zappos
+ * Made in America: Sam Walton
+
 
 
   **Biographies**
@@ -91,6 +104,11 @@ permalink: /readings/
   * The Everything Store and the Age of Amazon by Brad Stone
   * What Do You Care What People Think by Richard Feynman
   * Alexander Hamilton by Ron Chernow
+  * Mountains Beyond Mountains
+  * Unbroken
+
+  To read:
+  * walt disney, nikkola tesla, the new rules for marriage, etc.
 
 
 
@@ -101,7 +119,7 @@ permalink: /readings/
   * The Singularity Is Near: When Humans Transcend Biology by Ray Kurzweil
 
 
-  **Spirituality & Meditation**
+  **Spirituality, Philosophy & Meditation**
 
   *  Flow: the psychology of optimal experience by Mihaly Csikszentmihalyi
   *  The Alchemist by Paulo Coelho
@@ -111,6 +129,11 @@ permalink: /readings/
   * Manuscripts in Arcca by Paulo Coelho
   * Conversations with God: An Uncommon Dialogue by Neale Donald Walsch
   * The Bible: cover to cover
+  * When Breath Becomes Air by
+  * The Four Agreements
+  * The Surrender Experiment
+  * Mere Christianity by C.S. Lewis
+  * Zen and the Art of Motorcycle Maintenance
 
  **Relationships**
 
@@ -118,6 +141,7 @@ permalink: /readings/
  * What Makes Love Last? by John Gottman
  * Adultery by Paulo Coelho
  * The Seven Principles for Making Marriage Work: A Practical Guide by John Gottman
+ * The New Rules of Marriage by Terrance Real
 
   **Cooking**
 
@@ -128,3 +152,7 @@ permalink: /readings/
 
   *  Sapiens: A Brief History of Humankind by by Yuval Noah Harari
   *  Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond
+
+  **Philosophy**
+
+  * [Zen and the Art of Motorcycle Maintenance](https://matthewberg.me/jekyll/update/2019/12/12/Zen-And-The-Art-Of-Motorcycle-Maintenance.html)
