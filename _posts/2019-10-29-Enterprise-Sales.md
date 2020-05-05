@@ -18,3 +18,5 @@ B2B sales is hard for early companies. I've spent time thinking, reading and pra
 *  [Major Account Sales Strategy](https://www.amazon.com/Major-Account-Sales-Strategy-Rackham-ebook/dp/B006B7LP9G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 *  [Five ways to build a $100 million business](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 * [Podcast: Sales for Founders](https://salesforfounders.com/podcast/)
+* [How to Sell a B2B Product](https://calv.info/how-to-sell-b2b)
+* [Content Marking Guide](https://priceonomics.com/the-content-marketing-handbook/)

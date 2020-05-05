@@ -19,7 +19,7 @@ permalink: /readings/
 
   * Predictably Irrational: The Hidden Forces That Shape Our Decisions by Dan Ariely
   * The Social Animal: The Hidden Sources of Love, Character, and Achievement by David Brooks
-  * Brainfluence: 100 Ways to Persuade and Convince Customers with Neuromarketing by Roger      Dooley
+  * Brainfluence: 100 Ways to Persuade and Convince Customers with Neuromarketing by Roger Dooley
   * Hooked: How to Build Habit-Forming Products by Nir Eyal
   * Deep Work: Rules for Focus in a Distracted World by Cal Newport
   * The Art of Learning: by Josh Waitzkin
@@ -29,6 +29,7 @@ permalink: /readings/
     by Gay Hendricks
   * Drive: The Surprising Truth About What Motivates Us
    by Daniel H. Pink
+   * Growth Mindset by Carol Dweck
 
    **Sales/Revenue**
 
@@ -57,6 +58,7 @@ permalink: /readings/
   * When Genius Failed: The Rise and Fall of Long-Term Capital Management  
   * The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
   * One Up on Wall Street by Peter Lynch
+  * Seeking Wisdom from Darwin to Munger by Peter Bevlin
 
 
   **Health**
@@ -86,6 +88,8 @@ permalink: /readings/
  * The Upstarts
  * Delivering Happiness Zappos
  * Made in America: Sam Walton
+ * That Will Never Work: The Story of Netflix by Marc Randolph
+
 
 
 
@@ -104,19 +108,16 @@ permalink: /readings/
   * The Everything Store and the Age of Amazon by Brad Stone
   * What Do You Care What People Think by Richard Feynman
   * Alexander Hamilton by Ron Chernow
-  * Mountains Beyond Mountains
-  * Unbroken
-
-  To read:
-  * walt disney, nikkola tesla, the new rules for marriage, etc.
-
-
+  * Mountains Beyond Mountains by Paul Farmer
+  * Unbroken by Laura Hillenbrand
 
   **Technology**
 
   * What Technology Wants by Kevin Kelly
   * On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins
   * The Singularity Is Near: When Humans Transcend Biology by Ray Kurzweil
+  * It Doesn't Have to Be Crazy At Work
+  * Remote
 
 
   **Spirituality, Philosophy & Meditation**
@@ -152,3 +153,7 @@ permalink: /readings/
 
   *  Sapiens: A Brief History of Humankind by by Yuval Noah Harari
   *  Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond
+  *  The Philosophy of History by William Durrant
+
+  **To read:**
+  * walt disney, nikkola tesla,
