@@ -14,7 +14,6 @@ categories: jekyll update
 - [Pathology of Sugar](#pathology)
 - [History of Sugar](#history)
 - [Sugar Entrepreneurs](#entrepreneurs)
-- [FDA & Sugar](#FDA)
 - [Medical Community & Sugar](#medical)
 - [Sugar & Cigarettes](#cigarettes)
 - [Lipstick on a Pig: Sugar, the FDA, and Incentives](#Lipstick)         
