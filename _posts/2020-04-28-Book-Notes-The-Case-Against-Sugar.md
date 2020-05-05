@@ -26,10 +26,11 @@ categories: jekyll update
 
 Gary demonstrates how sugar is toxic to the body over the long term and is responsible in the pathology of a cluster of 'Western' chronic diseases including: insulin resistance, metabolic syndrome, type two diabetes, fatty liver disease, obesity and gout.
 
-He specifically makes the argument that sugars such as sucrose and high-fructose corn syrup are fundamental causes of diabetes and obesity, using the same simple concept of causality that we employ when we say smoking cigarettes causes lung cancer.
+His argues that sugars, such as, sucrose and high-fructose corn syrup are fundamental causes of diabetes and obesity, using the same simple concept of causality that we employ when we say smoking cigarettes causes lung cancer.
 
+Gary takes a sound scientific approach to nutrition research while dissecting the questions against his thesis and not definitively making conclusions he isn't able to support without strong research. It's clear from his analysis that sugar is far more toxic than I originally thought and should be avoided unless in fruits or vegetables. Given the lack of research supporting artificial sweeteners it seems prudent to avoid them as well.
 
-Gary takes a scientific approach to nutrition research while dissecting the questions against his thesis and not definitively making conclusions that he can't support without strong research. After reading this, I'm convinced that sugar is toxic and should be avoided unless in fruits or vegetables. Given the lack of research supporting artificial sweeteners it seems prudent to avoid them as well. Read on for details as to why.
+Below are select highlights from book.
 
 
 #### <a name="stats"></a>Meaningful Stats
@@ -42,6 +43,10 @@ Gary takes a scientific approach to nutrition research while dissecting the ques
  -  In more than one in every ten individuals diagnosed with type 2 diabetes is neither obese nor overweight).
 
    * In 1978, Kelly West, the leading American authority on diabetes epidemiology—the study of how diseases move through populations—suggested that diabetes had already killed more people in the twentieth century than all wars combined. “Diabetes mellitus has become one of the most important of human problems,”
+
+   * The World Health Organization reports that obesity rates have doubled worldwide since 1980; in 2014, more than half a billion adults on the planet were obese, and more than forty million children under the age of five were overweight or obese. Without doubt we’ve been getting fatter, a trend that can be traced back in the United States to the nineteenth century, but the epidemic of diabetes is a more intriguing, more telling phenomenon.
+
+   * In fact, anywhere populations begin eating Western diets and living Western lifestyles—whenever and wherever they’re acculturated or urbanized, as West noted in 1978—diabetes epidemics follow.
 
 #### <a name="sugar"></a>Defining Sugar and It's Properties
 
@@ -129,6 +134,10 @@ Gary takes a scientific approach to nutrition research while dissecting the ques
 
  * By the 1920s, sugar refineries were producing as much sugar in a single day—millions of pounds—as would have taken refineries in the 1820s an entire decade.
 
+ * Here was a disease of carbohydrate metabolism that was becoming increasingly common as populations began consuming sugar—a kind of carbohydrate—at levels that were virtually unimaginable a century before; in some cases, just twenty or thirty years before.
+
+ * As sugar consumption exploded in the United States and the United Kingdom with the industrial revolution; with the birth of the confectionary, cereal, and soft-drink industries; and with the increasing availability of chocolate bars and ice-cream treats, so did diabetes begin its inexorable climb. When sugar and sugar-rich products spread around the globe, so did diabetes.
+
 #### <a name="entrepreneurs"></a>Sugar Entrepreneurs
 
  > By 1903, The New York Times was estimating yearly candy industry sales at $150 million in the United States alone, up from “almost nothing” a quarter century earlier.
@@ -149,17 +158,8 @@ Gary takes a scientific approach to nutrition research while dissecting the ques
 
  * Kellogg’s, in 1950, released Sugar Corn Pops, even though most of the company stock was still held by the W. K. Kellogg Foundation, “a charitable organization established to promote children’s health and education.”
 
-#### <a name="FDA"></a>FDA & Sugar
-
   * As the University of California, Berkeley, authority Michael Pollan has so memorably put it, we should “eat food. Not too much. Mostly plants.” If we do this, we will get as close as we reasonably can to a healthy diet.
 
-  * The World Health Organization reports that obesity rates have doubled worldwide since 1980; in 2014, more than half a billion adults on the planet were obese, and more than forty million children under the age of five were overweight or obese. Without doubt we’ve been getting fatter, a trend that can be traced back in the United States to the nineteenth century, but the epidemic of diabetes is a more intriguing, more telling phenomenon.
-
-  * In fact, anywhere populations begin eating Western diets and living Western lifestyles—whenever and wherever they’re acculturated or urbanized, as West noted in 1978—diabetes epidemics follow.
-
-  * Here was a disease of carbohydrate metabolism that was becoming increasingly common as populations began consuming sugar—a kind of carbohydrate—at levels that were virtually unimaginable a century before; in some cases, just twenty or thirty years before.
-
-  * As sugar consumption exploded in the United States and the United Kingdom with the industrial revolution; with the birth of the confectionary, cereal, and soft-drink industries; and with the increasing availability of chocolate bars and ice-cream treats, so did diabetes begin its inexorable climb. When sugar and sugar-rich products spread around the globe, so did diabetes.
 
 #### <a name="medical"></a>Medical Community on Sugar
 
@@ -262,17 +262,11 @@ Gary takes a scientific approach to nutrition research while dissecting the ques
 
  * First, though, the Sugar Association hired the legendary Madison Avenue public relations firm Carl Byoir and Associates to design a public-health campaign that would “establish with the broadest possible audience—virtually everyone is a consumer—the safety of sugar as a food.”
 
-Is someone doing this with sleep?
-“the forging of public opinion,”
-Phrasing
-
  * In 1960, when Stare’s nutrition department broke ground on a new five-million-dollar building, it was paid for largely by private donations, including the “lead gift,” as Stare described it, of $1.026 million from the General Foods Corporation, the maker of Kool-Aid and the Tang breakfast drink.
 
  * How much does the funding of research by private organizations or by governmnt w inside aendas influenceth outcom of science? How can you see fthis from an investment vehical? Probiotics seems like another one of these. I wonder if you could use this fact to understand where the utcomeswould be of industries as a whole. Whats happening in the cannabis industry?
 
- * FDA
-
- * Cant really be trusted
+ * FDA can't really be trusted then nor now. It's far too reactive than it is proactive. It responds after the fact. See ongoing issues with high frequency radiation.
 
 #### <a name="prenatal"></a>Prenatal Imprinting
 
