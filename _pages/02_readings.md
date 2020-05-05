@@ -76,6 +76,9 @@ permalink: /readings/
   * the Sleep Revolution by Arianna Huffington
   * Serve to Win: Serve to Win: The 14-Day Gluten-Free Plan for Physical and Mental Excellence by Novak Djokovic
   * Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest by Dan Buettner
+  * the Emperor of All Maladies by Siddhartha Mukherjee
+  * [the Case Against Sugar by Gary Taubes](https://matthewberg.me/jekyll/update/2020/04/27/Book-Notes-The-Case-Against-Sugar.html)
+
 
 
  **Founders**
