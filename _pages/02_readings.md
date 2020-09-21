@@ -30,6 +30,7 @@ permalink: /readings/
   * Drive: The Surprising Truth About What Motivates Us
    by Daniel H. Pink
    * Growth Mindset by Carol Dweck
+   * The Biggest Bet: How I Learned to Pay Attention, master Myself, and Win by Maria Konnikova
 
    **Sales/Revenue**
 
@@ -54,7 +55,7 @@ permalink: /readings/
   * The Intelligent Investor by Benjamin Graham
   * Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld and Jason A. Mendelson
   * How to Get Fiflthy Rich is Rising Asia
-  * Zero to One:
+  * Zero to One: Peter Theil
   * When Genius Failed: The Rise and Fall of Long-Term Capital Management  
   * The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
   * One Up on Wall Street by Peter Lynch
@@ -92,8 +93,6 @@ permalink: /readings/
  * Delivering Happiness Zappos
  * Made in America: Sam Walton
  * That Will Never Work: The Story of Netflix by Marc Randolph
-
-
 
 
   **Biographies**
@@ -158,5 +157,15 @@ permalink: /readings/
   *  Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond
   *  The Philosophy of History by William Durrant
 
-  **To read:**
-  * walt disney, nikkola tesla,
+  **Need to Read:**
+  * Bios: walt disney, nikkola tesla,
+  * Physics: The Feynman Lectures
+  * Philosophy: Godel, Escher, Bach
+  * Sociology: Das Kapital
+  * English: Infinite Jest
+  * Media: Understanding Media
+  * Investing: Security Analysis
+  * Computer Science: The Art of Computer Programming
+  * Biology: The Origin of Species
+  * Economics: The Wealth of Nations
+  * Lifespan: David Sinclair
