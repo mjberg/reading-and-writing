@@ -12,7 +12,7 @@ permalink: /readings/
   * Principles by Ray Dalio
   * The Way of the Seal: Think Like an Elite Warrior to Lead and Succeed by Mark Divine
   * No Easy Days: The Firsthand Account of the Mission that Killed Osama Bin Laden by Mark Owen
-  * Extreme Ownership:
+  * Extreme Ownership: How Navy Seals Lead and Win by Jocko Willink 
   * [Army Leadership & the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf)
 
   **Psychology**

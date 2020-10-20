@@ -56,8 +56,8 @@ By understanding these processes he outlines various approaches we can take to s
 * Strives to keep sugar, bread, and pasta intake as low as possible.
 * Try to skip one meal a day or at least make it really small.
 * Every few months, is analyzed for dozens of biomarkers. When levels of various markers are not optimal, moderates them with food or exercise.
-* Try to take a lot of steps each day and walk upstairs, and I go to the gym most weekends with my son, Ben; we lift weights, jog a bit, and hang out in the sauna before dunking in an ice-cold pool.
-* Eat a lot of plants and trys to avoid eating other mammals, even though they do taste good. If I work out, I will eat meat.
+* Tries to take a lot of steps each day and walk upstairs, he goes to the gym most weekends to lift weights, jog a bit, and hang out in the sauna before dunking in an ice-cold pool.
+* Eat a lot of plants and trys to avoid eating other mammals, even though they do taste good. If he does work out, he will eat meat.
 * Doesn't smoke, tries to avoid microwaved plastic, excessive UV exposure, X-rays, and CT scans.
 * Trys to stay on the cool side during the day and when sleeping at night.
 * Aims to keep my body weight or BMI in the optimal range for healthspan, which for him is 23 to 25.
