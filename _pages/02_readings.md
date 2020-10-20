@@ -4,7 +4,7 @@ title: Readings
 permalink: /readings/
 ---
 
-  Books read. If notes available see link.
+  A running list of books I've read over the last few years for memory. More recently I've begun adding notes for select books. If notes are available see link.
 
   **OS & Leadership**
 
@@ -54,7 +54,7 @@ permalink: /readings/
   * The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success by William Thorndike
   * The Intelligent Investor by Benjamin Graham
   * Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld and Jason A. Mendelson
-  * How to Get Fiflthy Rich is Rising Asia
+  * How to Get Fiflthy Rich in Rising Asia
   * Zero to One: Peter Theil
   * When Genius Failed: The Rise and Fall of Long-Term Capital Management  
   * The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
@@ -77,8 +77,11 @@ permalink: /readings/
   * the Sleep Revolution by Arianna Huffington
   * Serve to Win: Serve to Win: The 14-Day Gluten-Free Plan for Physical and Mental Excellence by Novak Djokovic
   * Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest by Dan Buettner
-  * the Emperor of All Maladies by Siddhartha Mukherjee
+  * The Emperor of All Maladies by Siddhartha Mukherjee
   * [the Case Against Sugar by Gary Taubes](https://matthewberg.me/jekyll/update/2020/04/27/Book-Notes-The-Case-Against-Sugar.html)
+  * Lifespan: Why We Age and Why We Don't Have To by David Sinclair
+  * Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Disease and Coping by Robert M. Sapolsky
+  * Deep: Free Diving, Renegade Science, and What the Ocean Tells Us About Ourselves by James Nestor
 
 
 
@@ -132,7 +135,7 @@ permalink: /readings/
   * Manuscripts in Arcca by Paulo Coelho
   * Conversations with God: An Uncommon Dialogue by Neale Donald Walsch
   * The Bible
-  * When Breath Becomes Air by
+  * When Breath Becomes Air
   * The Four Agreements
   * The Surrender Experiment
   * Mere Christianity by C.S. Lewis
@@ -158,14 +161,12 @@ permalink: /readings/
   *  The Philosophy of History by William Durrant
 
   **Need to Read:**
-  * Bios: walt disney, nikkola tesla,
+  * Bios: walt disney, Nikola tesla
   * Physics: The Feynman Lectures
   * Philosophy: Godel, Escher, Bach
   * Sociology: Das Kapital
   * English: Infinite Jest
   * Media: Understanding Media
-  * Investing: Security Analysis
   * Computer Science: The Art of Computer Programming
   * Biology: The Origin of Species
   * Economics: The Wealth of Nations
-  * Lifespan: David Sinclair

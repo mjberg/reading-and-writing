@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zen and the Art of Motorcycle Maintenance"
+title:  "Zen and the Art of Motorcycle Maintenance: Book Notes"
 date:   2019-12-12 11:46:37 -0500
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Score Takes Care of Itself"
+title:  "The Score Takes Care of Itself: Book Notes"
 date:   2019-02-10 15:46:37 -0500
 categories: jekyll update
 ---
