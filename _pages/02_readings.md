@@ -79,7 +79,7 @@ permalink: /readings/
   * Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest by Dan Buettner
   * The Emperor of All Maladies by Siddhartha Mukherjee
   * [the Case Against Sugar by Gary Taubes](https://matthewberg.me/jekyll/update/2020/04/27/Book-Notes-The-Case-Against-Sugar.html)
-  * Lifespan: Why We Age and Why We Don't Have To by David Sinclair
+  * [Lifespan: Why We Age and Why We Don't Have To by David Sinclair](https://matthewberg.me/jekyll/update/2020/10/14/Book-Notes-Lifespan-Why-We-Age-And-Why-We-Don't-Have-To.html)
   * Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Disease and Coping by Robert M. Sapolsky
   * Deep: Free Diving, Renegade Science, and What the Ocean Tells Us About Ourselves by James Nestor
 

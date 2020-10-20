@@ -5,7 +5,7 @@ date:   2020-10-14 11:46:37 -0500
 categories: jekyll update
 ---
 
-A pattern has started to surface to me over the last several years, of people who sound smart vs. people who are *actually smart*, after meeting a large amount of people from different domains and walks of life. So thought I'd try to identify the subtle signals so that I can better recognize them going forward:
+After meeting a large amount of people from different domains and walks of life over the last few years a pattern has started to surface to me of people who 'sound smart' vs. people who are '*actually smart*.' So thought I'd try to identify the subtle signals so that I can better recognize them going forward:
 
 **People Who Like to Sound Smart**
 * Tend to be quick to offer strong opinions
@@ -22,6 +22,6 @@ A pattern has started to surface to me over the last several years, of people wh
 * Treat things as more experimental than certain
 * Doubt themselves and the past as a prediction of future results
 * Generally find them to be more empathetic
-* Generally talk slower
+* Often talk slower
 
-Of course, there are many exceptions to this heuristic - its most likely more of a continuum between two camps more than anything. One 'camp' more focused on external signals and the other 'camp' is more focused on internal, seem to be playing completely different games.
+Of course, there are many exceptions to this heuristic (if you can even call it that) - its most likely more of a continuum between two camps more than anything. One 'camp' more focused on external signals and the other 'camp' is more focused on internal, seem to be playing completely different games.
