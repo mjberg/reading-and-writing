@@ -99,7 +99,7 @@ permalink: /readings/
  * Delivering Happiness Zappos
  * Made in America: Sam Walton
  * That Will Never Work: The Story of Netflix by Marc Randolph
- * Invent and Wander: The Collected Writings of Jeff Bezos
+ * [Invent and Wander: The Collected Writings of Jeff Bezos](https://matthewberg.me/jekyll/update/2020/10/25/Invent-And-Wander-Book-Notes.html)
 
 
   **Biographies**
