@@ -12,7 +12,7 @@ permalink: /readings/
   * Principles by Ray Dalio
   * The Way of the Seal: Think Like an Elite Warrior to Lead and Succeed by Mark Divine
   * No Easy Days: The Firsthand Account of the Mission that Killed Osama Bin Laden by Mark Owen
-  * Extreme Ownership: How Navy Seals Lead and Win by Jocko Willink 
+  * Extreme Ownership: How Navy Seals Lead and Win by Jocko Willink
   * [Army Leadership & the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf)
 
   **Psychology**
@@ -31,6 +31,7 @@ permalink: /readings/
    by Daniel H. Pink
    * Growth Mindset by Carol Dweck
    * The Biggest Bet: How I Learned to Pay Attention, master Myself, and Win by Maria Konnikova
+   * Never Split the Difference: Negotiating As If Your Life Depended On It by Chris Voss
 
    **Sales/Revenue**
 
@@ -60,6 +61,8 @@ permalink: /readings/
   * The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
   * One Up on Wall Street by Peter Lynch
   * Seeking Wisdom from Darwin to Munger by Peter Bevlin
+  * The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel
+  * The Dao of Capital: Austrian Investing in a Distorted World by Mark Spitznagel
 
 
   **Health**
@@ -96,6 +99,7 @@ permalink: /readings/
  * Delivering Happiness Zappos
  * Made in America: Sam Walton
  * That Will Never Work: The Story of Netflix by Marc Randolph
+ * Invent and Wander: The Collected Writings of Jeff Bezos
 
 
   **Biographies**
@@ -140,6 +144,8 @@ permalink: /readings/
   * The Surrender Experiment
   * Mere Christianity by C.S. Lewis
   * [Zen and the Art of Motorcycle Maintenance](https://matthewberg.me/jekyll/update/2019/12/12/Zen-And-The-Art-Of-Motorcycle-Maintenance.html)
+  * Lying by Sam Harris
+
 
  **Relationships**
 

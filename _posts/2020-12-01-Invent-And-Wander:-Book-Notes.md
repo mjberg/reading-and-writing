@@ -5,6 +5,8 @@ date:   2020-10-25 11:46:37 -0500
 categories: jekyll update
 ---
 
+#### Select quotes from Amazon annual shareholder reports by Jeff Bezos.
+
 > A characteristic of truly innovative and creative people is that they have a reality-distortion field, a phrase that was used about Steve Jobs and comes from a Star Trek episode in which aliens create an entire new world through sheer mental force.
 
 
