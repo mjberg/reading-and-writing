@@ -100,6 +100,7 @@ permalink: /readings/
  * Made in America: Sam Walton
  * That Will Never Work: The Story of Netflix by Marc Randolph
  * [Invent and Wander: The Collected Writings of Jeff Bezos](https://matthewberg.me/jekyll/update/2020/10/25/Invent-And-Wander-Book-Notes.html)
+ * The People's Tycoon: Henry Ford and the American Century by Steven Watts
 
 
   **Biographies**
@@ -119,6 +120,7 @@ permalink: /readings/
   * Alexander Hamilton by Ron Chernow
   * Mountains Beyond Mountains by Paul Farmer
   * Unbroken by Laura Hillenbrand
+  * The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race by Walter Issacson
 
   **Technology**
 
@@ -145,6 +147,7 @@ permalink: /readings/
   * Mere Christianity by C.S. Lewis
   * [Zen and the Art of Motorcycle Maintenance](https://matthewberg.me/jekyll/update/2019/12/12/Zen-And-The-Art-Of-Motorcycle-Maintenance.html)
   * Lying by Sam Harris
+  * The Untethered Soul by Michael Singer
 
 
  **Relationships**
@@ -166,8 +169,8 @@ permalink: /readings/
   *  Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond
   *  The Philosophy of History by William Durrant
 
-  **Need to Read:**
-  * Bios: walt disney, Nikola tesla
+  **Reading List:**
+  * Bios: Walt Disney & Nikola Tesla
   * Physics: The Feynman Lectures
   * Philosophy: Godel, Escher, Bach
   * Sociology: Das Kapital
