@@ -18,7 +18,7 @@ Functional medicine is defined as:
 
 > a personalized, systems-oriented model that empowers patients and practitioners to achieve the highest expression of health by working in collaboration to address the underlying causes of disease.
 
-In my experience, this is a verbose way to say, 'we use additional tools often overlooked by conventional medicine to help the body heal and flouris.' The main additional tools being: detailed blood work, nutrition, stress management, sleep, and supplementation.
+In my experience, this is a verbose way to say, 'we use additional tools often overlooked by conventional medicine to help the body heal and flourish.' The main additional tools being: detailed blood work, nutrition, stress management, sleep, and supplementation.
 
 #### What to Expect: Part 1
 
