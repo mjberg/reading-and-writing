@@ -30,8 +30,9 @@ permalink: /readings/
   * Drive: The Surprising Truth About What Motivates Us
    by Daniel H. Pink
    * Growth Mindset by Carol Dweck
-   * The Biggest Bet: How I Learned to Pay Attention, master Myself, and Win by Maria Konnikova
+   * The Biggest Bluff: How I Learned to Pay Attention, master Myself, and Win by Maria Konnikova
    * Never Split the Difference: Negotiating As If Your Life Depended On It by Chris Voss
+   * Range: Why Generalists Triumph in a Specialized World by David Epstein
 
    **Sales/Revenue**
 
@@ -63,6 +64,14 @@ permalink: /readings/
   * Seeking Wisdom from Darwin to Munger by Peter Bevlin
   * The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel
   * The Dao of Capital: Austrian Investing in a Distorted World by Mark Spitznagel
+  * Dying of Money: Lessons of the Great German and American Inflations by Jen Parsson
+  * The Great Game of Business, Expanded and Updated: The Only Sensible Way to Run a Company
+  * How to Get Rich: One of the World's Greatest Entrepreneurs Shares His Secrets by Felix Dennis
+  * The New Market Wizards: Conversations with America's Top Traders by Jack Schwager
+  * King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone by John Morris
+  * The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton
+
+
 
 
   **Health**
@@ -85,6 +94,7 @@ permalink: /readings/
   * [Lifespan: Why We Age and Why We Don't Have To by David Sinclair](https://matthewberg.me/jekyll/update/2020/10/14/Book-Notes-Lifespan-Why-We-Age-And-Why-We-Don't-Have-To.html)
   * Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Disease and Coping by Robert M. Sapolsky
   * Deep: Free Diving, Renegade Science, and What the Ocean Tells Us About Ourselves by James Nestor
+  * Finding Ultra by Rich Roll 
 
 
 
@@ -148,6 +158,10 @@ permalink: /readings/
   * [Zen and the Art of Motorcycle Maintenance](https://matthewberg.me/jekyll/update/2019/12/12/Zen-And-The-Art-Of-Motorcycle-Maintenance.html)
   * Lying by Sam Harris
   * The Untethered Soul by Michael Singer
+  * Saltwater Buddha: A Surfer's Quest to Find Zen on the Sea by Jaimal Yogis
+  * Zen and the Art of Archery by Eugen Herrigel
+  * Abba's Child: The Cry of the Heart for Intimate Belonging by Brennan Manning
+
 
 
  **Relationships**
