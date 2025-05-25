@@ -94,7 +94,7 @@ permalink: /readings/
   * [Lifespan: Why We Age and Why We Don't Have To by David Sinclair](https://matthewberg.me/jekyll/update/2020/10/14/Book-Notes-Lifespan-Why-We-Age-And-Why-We-Don't-Have-To.html)
   * Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Disease and Coping by Robert M. Sapolsky
   * Deep: Free Diving, Renegade Science, and What the Ocean Tells Us About Ourselves by James Nestor
-  * Finding Ultra by Rich Roll 
+  * Finding Ultra by Rich Roll
 
 
 
@@ -182,14 +182,3 @@ permalink: /readings/
   *  Sapiens: A Brief History of Humankind by by Yuval Noah Harari
   *  Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond
   *  The Philosophy of History by William Durrant
-
-  **Reading List:**
-  * Bios: Walt Disney & Nikola Tesla
-  * Physics: The Feynman Lectures
-  * Philosophy: Godel, Escher, Bach
-  * Sociology: Das Kapital
-  * English: Infinite Jest
-  * Media: Understanding Media
-  * Computer Science: The Art of Computer Programming
-  * Biology: The Origin of Species
-  * Economics: The Wealth of Nations
