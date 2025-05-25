@@ -70,6 +70,8 @@ permalink: /readings/
   * The New Market Wizards: Conversations with America's Top Traders by Jack Schwager
   * King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone by John Morris
   * The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton
+  * Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke
+  * The Checklist Manifesto: How to Get Things Right by Atul Gawande
 
 
 
@@ -95,6 +97,7 @@ permalink: /readings/
   * Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Disease and Coping by Robert M. Sapolsky
   * Deep: Free Diving, Renegade Science, and What the Ocean Tells Us About Ourselves by James Nestor
   * Finding Ultra by Rich Roll
+  * Trauma: The Invisible Epidemic: How Trauma Works and How We Can Heal From It by Paul Conti
 
 
 
@@ -161,6 +164,9 @@ permalink: /readings/
   * Saltwater Buddha: A Surfer's Quest to Find Zen on the Sea by Jaimal Yogis
   * Zen and the Art of Archery by Eugen Herrigel
   * Abba's Child: The Cry of the Heart for Intimate Belonging by Brennan Manning
+  * Man's Search For Meaning: The classic tribute to hope from the Holocaust by Viktor Frankl
+  * Let My People Go Surfing: The Education of a Reluctant Businessman by Yvon Chouinard
+  *  
 
 
 
