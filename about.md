@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Matt Berg, I'm a co-founder of [Somni](http://puresomni.com/).
 
-Somni makes products that improve health through better sleep. I work across our team to help design, build, and deploy products and services aimed at improving sleep.
+Somni designs, builds, and deploys products and services aimed at improving sleep.
 
 When I'm not working you can find me reading something new, working on my scratch cooking, exploring an ocean or running somewhere on a trail.
 
