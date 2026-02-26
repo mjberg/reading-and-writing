@@ -3,6 +3,7 @@ layout: post
 title:  "Simplifying Real Estate"
 date:   2019-05-26 11:46:37 -0500
 categories: jekyll update
+published: false
 ---
 
  Over the last 5 years I've owned a condo. Here are some quick performance numbers:
