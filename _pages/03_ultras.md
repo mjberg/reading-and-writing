@@ -79,4 +79,9 @@ permalink: /ultras/
 .race-results {
   font-size: 0.85em;
 }
+@media (max-width: 600px) {
+  .race-body { flex-direction: column; }
+  .race-photo { width: 100%; height: 220px; }
+  .race-header { flex-direction: column; gap: 0.2em; }
+}
 </style>
