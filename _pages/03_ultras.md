@@ -30,7 +30,7 @@ permalink: /ultras/
 </div>
 
 <style>
-.race-intro { color: #828282; margin-bottom: 1.5em; }
+.race-intro { color: #828282; margin-top: -1.25em; margin-bottom: 1.5em; }
 .race-list { margin-top: 0; }
 .race-entry {
   border-top: 1px solid #e8e8e8;
