@@ -4,6 +4,8 @@ title: Ultras & Efforts
 permalink: /ultras/
 ---
 
+<p class="race-intro">A few noteworthy efforts.</p>
+
 <div class="race-list">
 {% for race in site.data.races %}
 <div class="race-entry">
@@ -28,7 +30,8 @@ permalink: /ultras/
 </div>
 
 <style>
-.race-list { margin-top: 1.5em; }
+.race-intro { color: #828282; margin-bottom: 1.5em; }
+.race-list { margin-top: 0; }
 .race-entry {
   border-top: 1px solid #e8e8e8;
   padding: 1.5em 0;
