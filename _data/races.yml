@@ -22,6 +22,28 @@
   results_url: https://live.utmb.world/speedgoatmountainraces/2025/runners/547
   note: The hardest 50K in the states — so steep there's very little actual running. Gained 90+ positions on course to finish 280th.
 
+- name: Haena Run Half Marathon
+  image: /assets/images/haena-2025.jpg
+  location: Hanalei, HI
+  date: June 2025
+  distance: 13.1 miles
+  elevation: 523 ft
+  time: "1:32"
+  place: 15
+  field: 120
+  results_url: https://www.hanaleicanoeclub.org/haena-run/
+  note: A morning run along the ocean from Hanalei Pier to Haena and back on Kauai's north shore.
+
+- name: Kalalau Trail
+  image: /assets/images/kalalau-2025.jpg
+  location: Na Pali Coast, HI
+  date: May 2025
+  distance: 20.80 miles
+  elevation: 5,663 ft
+  time: "6:48:05"
+  results_url: https://www.strava.com/activities/14596310110/overview
+  note: Gods trail.
+
 - name: Paul Revere 10 Mile
   image: /assets/images/paul-revere-2025.jpg
   location: Harbor Springs, MI
