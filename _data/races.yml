@@ -1,0 +1,93 @@
+- name: The Rut 50K
+  image: /assets/images/rut-2025.jpg
+  location: Big Sky, MT
+  date: September 2025
+  distance: 30.8 miles
+  elevation: 10,300 ft
+  time: "8:55"
+  place: 186
+  field: 607
+  results_url: https://competitivetiming.com/events/the-rut/2025/50k/runners/1047
+  note: The Rut 50K is a true mountain running course. Rugged course, 2nd hardest 50k in states.
+
+- name: Speedgoat 50K
+  image: /assets/images/speedgoat-2025.jpg
+  location: Snowbird, UT
+  date: July 2025
+  distance: 32.6 miles
+  elevation: "+11,000 ft / -12,300 ft"
+  time: "9:54"
+  place: 280
+  field: 668
+  results_url: https://live.utmb.world/speedgoatmountainraces/2025/runners/547
+  note: The hardest 50K in the states — so steep there's very little actual running. Gained 90+ positions on course to finish 280th.
+
+- name: Paul Revere 10 Mile
+  image: /assets/images/paul-revere-2025.jpg
+  location: Harbor Springs, MI
+  date: July 4, 2025
+  distance: 10 miles
+  time: "1:04"
+  place: 18
+  field: 260
+  results_url: https://runsignup.com/Race/Results/43374?rsus=200-500-cef3ff8c-63cd-4c54-b0cc-c1e026cd1e6a#resultSetId-557817;perpage:100
+  note: Fun speedy race in northern MI. 6:28/mi pace.
+
+- name: Standhope 60K
+  image: /assets/images/standhope-2024.jpg
+  location: Pioneer Mountains, ID
+  date: August 2024
+  distance: 63K (60K course)
+  elevation: 9,866 ft
+  time: "10:01"
+  results_url: https://ultrasignup.com/m_results_event.aspx?did=107395&t=1
+  note: Signed up on a whim with only a 6-week prep block after months off. A nearby forest fire made breathing interesting — finished 63K of a 60K course and was back running within 48 hours.
+
+- name: The Rut 50K
+  image: /assets/images/rut-2022.jpg
+  location: Big Sky, MT
+  date: September 2022
+  distance: 31.39 miles
+  elevation: 10,300 ft
+  time: "10:40:41"
+  place: 315
+  field: 486
+  photo_pos: center 5%
+  results_url: https://competitivetiming.com/events/the-rut/2022/50k/runners/1061
+  note: First mountain race. Dangerous ridgelines, beautiful mountain meadows, and unbelievable views. Fell behind on hydration heading into the summit.
+
+- name: Mendocino Coast 50K
+  image: /assets/images/mendocino-2022.jpg
+  location: Mendocino, CA
+  date: April 2022
+  distance: 50K
+  elevation: 5,000 ft
+  time: "5:32:45"
+  place: 12
+  field: 130
+  results_url: https://ultrasignup.com/results_event.aspx?did=82646
+  note: A spectacular trail run on Northern California's Mendocino Coast — river, ocean, redwoods, and a waterfall.
+
+- name: Bryce Canyon 50 Miler
+  image: /assets/images/bryce-2018.jpg
+  location: Bryce Canyon, UT
+  date: June 2018
+  distance: 50 miles
+  elevation: 5,951 ft
+  time: "15:38:31"
+  place: 130
+  field: 151
+  results_url: https://ultrasignup.com/results_event.aspx?did=34073#id1393835
+  note: First 50 miler, you don't know what you don't know. Thought the hoodoos were alive by the end.
+
+- name: Mendocino Coast 50K
+  image: /assets/images/mendocino-2018.jpg
+  location: Mendocino, CA
+  date: April 2018
+  distance: 50K
+  elevation: 5,000 ft
+  time: "6:52:29"
+  place: 55
+  field: 150
+  results_url: https://ultrasignup.com/results_event.aspx?did=50778
+  note: Doesn't get much better than to run in the redwoods with friends.
